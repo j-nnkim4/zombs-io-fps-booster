@@ -1,13 +1,15 @@
-// ==UserScript==
-// @name         Zombs.io fps booster
-// @version      2026.06.01
-// @description  disable antialiasing, remove grid, and skip off-screen zombie rendering
-// @author       jaden
-// @match        *://zombs.io/*
-// @match        *://*.zombs.io/*
-// @run-at       document-start
-// @grant        none
-// ==/UserScript==
+/*!
+ * // ==UserScript==
+ * // @name         Zombs.io fps booster
+ * // @version      2026-06-01
+ * // @description  disable antialiasing, remove grid, and skip off-screen zombie rendering
+ * // @match        *://moomoo.io/*
+ * // @match        *://*.moomoo.io/*
+ * // @grant        none
+ * // @run-at       document-start
+ * // ==/UserScript==
+ */
+
 
 (function () {
     'use strict';
