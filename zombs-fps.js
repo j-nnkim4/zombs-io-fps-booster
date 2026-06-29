@@ -3,8 +3,8 @@
  * // @name         Zombs.io fps booster
  * // @version      2026-06-01
  * // @description  disable antialiasing, remove grid, and skip off-screen zombie rendering
- * // @match        *://moomoo.io/*
- * // @match        *://*.moomoo.io/*
+ * // @match        *://zombs.io/*
+ * // @match        *://*.zombs.io/*
  * // @grant        none
  * // @run-at       document-start
  * // ==/UserScript==
